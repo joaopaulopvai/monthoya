@@ -1,0 +1,25 @@
+pip install django ///// pip install Django==5.0.7
+python -m django --version
+django-admin startproject monthoya
+cd ecommerce
+python manage.py startapp website
+python manage.py runserver
+
+--Migrations----------------------------
+python manage.py makemigrations
+python manage.py migrate
+
+--Adimin--------------------------------
+python manage.py createsuperuser
+joao.dev
+joaopaulopvai@hotmail.com
+123@456#
+
+loro
+j01a1234
+loro@gmail.com
+
+
+ImageField()
+pip install pillow
+pip install django-cleanup  #utilizado para deletar arquivos

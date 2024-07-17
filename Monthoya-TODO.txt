@@ -1,0 +1,25 @@
+lembrar dados acesso tela de login
+
+criar newsletter - visitante deseja receber emails da monthoya (nome, email)
+
+Página de Captura de ALTA CONVERSÃO [EXEMPLOS]
+https://www.youtube.com/watch?v=P6sjR0nLxo8
+
+criar blog
+
+WEB-SITE:
+   home.html
+	Imóveis Destaque - Fique por dentro dos últimos imóveis adicionados e com preços especiais
+	Imóveis Populares
+	Imóveis Novos
+	Imóveis Em Alta(qtdes visualizações)
+	Imóveis Desejados
+	Consultores/Argentes
+	IMÓVEIS RECENTES À VENDA/Recent Properties for Sell/Rent
+       	RESIDENTIAL PROPERTY CATEGORIES
+       	Customer Says/depoimentos - Clientes Satisfeitos
+       	Request a Call - cliente pede por contado	
+   imovel-detalhes.html
+	vídeos
+	imoveis semelhantes
+
